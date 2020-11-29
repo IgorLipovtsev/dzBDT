@@ -1,2 +1,0 @@
-# dzBDT
-BDT homework
